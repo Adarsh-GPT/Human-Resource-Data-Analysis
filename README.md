@@ -43,7 +43,7 @@ Built with **powerful Excel formulas** for automated insights:
 3️⃣ **Analyze critical HR metrics** for smarter workforce planning  
 4️⃣ **Make data-driven HR decisions effortlessly!**  
 ## **📸 Dashboard Preview**
-![HR Dashboard]("C:\Users\Adarsh Kore\OneDrive\Documents\Projects\Excel\Project 3\Final Output.png")
+![HR Dashboard](Final Output.png)
 
 
 ## **🚀 Why Use This Dashboard?**
